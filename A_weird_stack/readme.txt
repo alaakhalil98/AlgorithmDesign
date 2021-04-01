@@ -8,4 +8,6 @@ The output file is created in the same directory as the source file.
 example of command input: java WeirdStack input.txt output.txt
 
 output file will be overwriten with each run of the program.
+
+Read the Requirements and constraints file to understand why some of the additional code was included.
  
